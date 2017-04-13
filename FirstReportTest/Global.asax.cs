@@ -12,7 +12,6 @@ namespace FirstReportTest
     {
         protected void Application_Start()
         {
-            AreaRegistration.RegisterAllAreas();
         }
     }
 }
