@@ -8,8 +8,5 @@ using System.Web.Routing;
 
 namespace FirstReportTest
 {
-    public class MvcApplication : System.Web.HttpApplication
-    {
-     
-    }
+   fsdfsdfsdnvbcnvb
 }
